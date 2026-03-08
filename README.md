@@ -36,13 +36,25 @@ Git | Jenkins | Azure DevOps | JIRA
 
 ## 📊 GitHub Stats
 
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2470&show_icons=true&theme=radical)
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2470&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Vaibhav2470&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Vaibhav2470&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
 ## 🔥 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2470&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2470&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
