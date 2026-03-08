@@ -42,7 +42,7 @@ Git | Jenkins | Azure DevOps | JIRA
 
 ## 🔥 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2470\&layout=compact\&theme=radical)
+Java | C# | Python
 
 ---
 
