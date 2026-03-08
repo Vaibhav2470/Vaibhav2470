@@ -36,13 +36,13 @@ Git | Jenkins | Azure DevOps | JIRA
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2470\&show_icons=true\&theme=radical)
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2470&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Most Used Languages
 
-Java | C# | Python
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2470&layout=compact&theme=radical)
 
 ---
 
