@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋 I'm Vaibhav Singh
 
-<!--
-**Vaibhav2470/Vaibhav2470** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | Automation Test Engineer | .NET Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔭 Currently working on **Automation Testing & .NET Development**
+* 💻 Experience with **C#, Selenium, Java, Python**
+* 📺 Worked on **LG webOS TV Applications**
+* ⚙️ Experienced in **CI/CD, Git, Jenkins**
+* 🌱 Currently learning **Advanced Automation & Cloud Testing**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+C# | Java | Python | SQL | VB.NET
+
+**Automation**
+
+Selenium | API Testing | Postman
+
+**Tools**
+
+Git | Jenkins | Azure DevOps | JIRA
+
+**Frameworks**
+
+.NET | Enact | React
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2470\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2470\&layout=compact\&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+GitHub:
+https://github.com/Vaibhav2470
+
+---
+
+⭐️ From Vaibhav Singh
