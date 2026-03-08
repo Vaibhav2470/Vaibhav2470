@@ -34,6 +34,25 @@ Git | Jenkins | Azure DevOps | JIRA
 
 ---
 
+## 🧠 LeetCode Practice
+
+I regularly practice Data Structures and Algorithms on LeetCode.
+
+🔗 LeetCode Profile  
+https://leetcode.com/Vaibhav2470/
+
+📌 Topics I practice:
+- Arrays
+- Strings
+- Dynamic Programming
+- Binary Search
+- Trees
+- Graphs
+
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Vaibhav2470?theme=dark&font=baloo)
+
 ## 📊 GitHub Stats
 
 ![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2470&show_icons=true&theme=tokyonight&hide_border=true)
