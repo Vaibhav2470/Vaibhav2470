@@ -75,6 +75,7 @@ https://leetcode.com/Vaibhav2470/
 
 ![Followers](https://img.shields.io/github/followers/Vaibhav2470?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Vaibhav2470?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-22-blue?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/Vaibhav2470/Vaibhav2470?style=for-the-badge)
 
 ---
