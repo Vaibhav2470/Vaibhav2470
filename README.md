@@ -55,7 +55,7 @@ https://leetcode.com/Vaibhav2470/
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vaibhav2470&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vaibhav2470&show_icons=true&theme=tokyonight)
 
 ---
 
