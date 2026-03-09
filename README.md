@@ -71,6 +71,14 @@ https://leetcode.com/Vaibhav2470/
 
 ---
 
+## 🏆 GitHub Achievements
+
+![Followers](https://img.shields.io/github/followers/Vaibhav2470?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Vaibhav2470?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-$(curl -s https://api.github.com/users/Vaibhav2470 | jq .public_repos)-blue?style=for-the-badge)
+
+---
+
 ## 🔥 Most Used Languages
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vaibhav2470&layout=compact&theme=tokyonight)
