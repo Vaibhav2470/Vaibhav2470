@@ -55,7 +55,7 @@ https://leetcode.com/Vaibhav2470/
 
 ## 📊 GitHub Stats
 
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2470&show_icons=true&theme=tokyonight&hide_border=true)
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2470&show_icons=true&theme=tokyonight)
 
 ---
 
