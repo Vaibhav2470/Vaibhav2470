@@ -73,11 +73,7 @@ https://leetcode.com/Vaibhav2470/
 
 ## 🔥 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2470&layout=compact&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2470&layout=compact&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vaibhav2470&layout=compact&theme=tokyonight)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vaibhav2470&layout=compact&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2470&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vaibhav2470&layout=compact&theme=tokyonight)
 
 ---
 
