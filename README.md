@@ -18,7 +18,7 @@
 
 **Languages**
 
-C# | Java | Python | SQL | VB.NET
+C# | Java | JavaScript | Python | SQL | VB.NET
 
 **Automation**
 
