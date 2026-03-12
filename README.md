@@ -67,7 +67,7 @@ https://leetcode.com/Vaibhav2470/
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Vaibhav2470)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2470&show_icons=true&theme=radical)
 
 ---
 
