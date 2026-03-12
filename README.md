@@ -62,15 +62,13 @@ https://leetcode.com/Vaibhav2470/
 ## 🔥 GitHub Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Vaibhav2470&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Vaibhav2470&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Vaibhav2470&theme=radical)
-![trophy](https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=Vaibhav2470)
 ![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=Vaibhav2470)
-![trophy](https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=Vaibhav2470&theme=radical&row=1&column=6)
 
 ---
 
