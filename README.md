@@ -26,7 +26,7 @@ Selenium | API Testing | Postman | REST Assured
 
 **Tools**
 
-Git | Jenkins | Azure DevOps | JIRA
+Git | Jenkins | Azure DevOps | JIRA | ALM
 
 **Frameworks**
 
