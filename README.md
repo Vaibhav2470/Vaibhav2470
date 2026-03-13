@@ -22,7 +22,7 @@ C# | Java | JavaScript | Python | SQL | VB.NET
 
 **Automation**
 
-Selenium | API Testing | Postman
+Selenium | API Testing | Postman | REST Assured
 
 **Tools**
 
