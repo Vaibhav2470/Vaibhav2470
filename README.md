@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 * 🔭 Currently working on **Automation Testing, .NET Development & React Developer**
-* 💻 Experience with **C#, Selenium, Java, Python**
+* 💻 Experience with **C#, Selenium, Java, JavaScript, Python**
 * 📺 Worked on **LG webOS TV Applications**
 * ⚙️ Experienced in **CI/CD, Git, Jenkins**
 * 🌱 Currently learning **Advanced Automation & Cloud Testing**
